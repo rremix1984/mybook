@@ -1,0 +1,6 @@
+# Ignore generated outputs
+output/
+logs/
+crawl.db
+__pycache__/
+*.pyc
